@@ -1,6 +1,6 @@
 # Heart Disease Diagnosis
 
-A small PyTorch project that predicts whether a patient has a cardiovascular disease from basic data.
+A small PyTorch project that predicts whether a patient has a cardiovascular disease from basic health and lifestyle data.
 
 This is a learning project, not a medical tool!
 
